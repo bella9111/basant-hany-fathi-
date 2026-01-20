@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://cdn-icons-png.flaticon.com/128/15006/15006263.png"/><br> 
+<img src="https://cdn-icons-png.flaticon.com/256/12053/12053038.png"/><br> 
 
 </div>
 
