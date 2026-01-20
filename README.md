@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%](https://www.flaticon.com/free-icon/savege_11051168)"/> <br>
 
 </div>
 
@@ -49,27 +50,21 @@
 ## 🛠️ Programming Languages
 
 ![SQL](https://cdn-icons-png.flaticon.com/128/9544/9544010.png)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML](https://cdn-icons-png.flaticon.com/128/3094/3094455.png)
+![CSS]([https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white](https://www.flaticon.com/free-icon/coding_17482427))
+![JavaScript](https://www.flaticon.com/free-icon/js-file_8422177)
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white](https://cdn-icons-png.flaticon.com/128/15267/15267845.png))
+![Python](https://cdn-icons-png.flaticon.com/128/3098/3098090.png)
+![C](https://cdn-icons-png.flaticon.com/128/3665/3665923.png)
 
 ---
 
-## 🗄️ Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
----
 
 ## 📊 Data Analysis Tools
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel]([https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white](https://www.flaticon.com/free-icon/excel_3979345))
+![Power BI](https://cdn-icons-png.flaticon.com/128/14016/14016474.png)
+![Tableau](https://cdn-icons-png.flaticon.com/128/10397/10397171.png)
 
 ---
 
