@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%](https://www.flaticon.com/free-icon/savege_11051168)"/> <br>
+<img src="https://cdn-icons-png.flaticon.com/128/15006/15006263.png"/><br> 
 
 </div>
 
@@ -51,9 +51,9 @@
 
 ![SQL](https://cdn-icons-png.flaticon.com/128/9544/9544010.png)
 ![HTML](https://cdn-icons-png.flaticon.com/128/3094/3094455.png)
-![CSS]([https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white](https://www.flaticon.com/free-icon/coding_17482427))
+![CSS](https://cdn-icons-png.flaticon.com/128/19037/19037985.png)
 ![JavaScript](https://www.flaticon.com/free-icon/js-file_8422177)
-![Java]([https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white](https://cdn-icons-png.flaticon.com/128/15267/15267845.png))
+![Java](https://cdn-icons-png.flaticon.com/128/1183/1183669.png)
 ![Python](https://cdn-icons-png.flaticon.com/128/3098/3098090.png)
 ![C](https://cdn-icons-png.flaticon.com/128/3665/3665923.png)
 
