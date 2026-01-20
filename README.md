@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://cdn-icons-png.flaticon.com/128/15006/15006263.png"/><br> 
 
 </div>
@@ -52,7 +51,7 @@
 ![SQL](https://cdn-icons-png.flaticon.com/128/9544/9544010.png)
 ![HTML](https://cdn-icons-png.flaticon.com/128/3094/3094455.png)
 ![CSS](https://cdn-icons-png.flaticon.com/128/19037/19037985.png)
-![JavaScript](https://www.flaticon.com/free-icon/js-file_8422177)
+![JavaScript](https://cdn-icons-png.flaticon.com/128/1199/1199124.png)
 ![Java](https://cdn-icons-png.flaticon.com/128/1183/1183669.png)
 ![Python](https://cdn-icons-png.flaticon.com/128/3098/3098090.png)
 ![C](https://cdn-icons-png.flaticon.com/128/3665/3665923.png)
@@ -62,7 +61,8 @@
 
 ## 📊 Data Analysis Tools
 
-![Excel]([https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white](https://www.flaticon.com/free-icon/excel_3979345))
+![Excel](https://cdn-icons-png.flaticon.com/128/4726/4726040.png
+)
 ![Power BI](https://cdn-icons-png.flaticon.com/128/14016/14016474.png)
 ![Tableau](https://cdn-icons-png.flaticon.com/128/10397/10397171.png)
 
