@@ -10,7 +10,7 @@
 ## 🧠 About Me
 I am a security-focused Computer Science student with a strong academic standing (GPA: Very Good). I expertly blend **Full-Stack Development** with **Cybersecurity principles** to build **"Secure-by-Design"** applications. 
 
-My expertise spans across Red Teaming, Security Operations Center (SOC) fundamentals, and complex Enterprise Network Architectures[cite: 2]. I thrive on mitigating OWASP Top 10 vulnerabilities and designing resilient network infrastructures.
+My expertise spans across Red Teaming, Security Operations Center (SOC) fundamentals, and complex Enterprise Network Architectures. I thrive on mitigating OWASP Top 10 vulnerabilities and designing resilient network infrastructures.
 
 - 🛡️ Active Member in **MSP Cybersecurity** & **IEEE Cybersecurity**.
 - 💡 Passionate about continuous learning, threat analysis, and hands-on labs.
@@ -22,12 +22,12 @@ My expertise spans across Red Teaming, Security Operations Center (SOC) fundamen
 ### 🔒 AI-Driven Smart Recruitment & Interview Management System
 *   **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
 *   **Description:** Developed a comprehensive Full-Stack recruitment platform with an AI-driven core for managing interviews.
-*   **Security Hardening:** Hardened the application against **OWASP Top 10** vulnerabilities (SQL Injection, XSS, and CSRF). Implemented secure user authentication, session management, and encrypted data storage[cite: 2].
+*   **Security Hardening:** Hardened the application against **OWASP Top 10** vulnerabilities (SQL Injection, XSS, and CSRF). Implemented secure user authentication, session management, and encrypted data storage.
 
 ### 🌐 Advanced Enterprise Network Architecture 
 *   **Tools:** Cisco Packet Tracer / GNS3.
 *   **Description:** Designed and implemented a scalable multi-department enterprise network utilizing **VLANs** for traffic segmentation.
-*   **Features:** Configured Inter-VLAN Routing, Static NAT/PAT, and DHCP services. Established a secure **Site-to-Site VPN** for encrypted remote communication using **VLSM** subnetting[cite: 2].
+*   **Features:** Configured Inter-VLAN Routing, Static NAT/PAT, and DHCP services. Established a secure **Site-to-Site VPN** for encrypted remote communication using **VLSM** subnetting.
 
 ### 📚 Library REST API
 *   **Tech Stack:** Node.js, Express, SQLite, Postman.
