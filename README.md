@@ -8,42 +8,42 @@
 ---
 
 ## 🧠 About Me
-I am a security-focused Computer Science student with a strong academic standing (GPA: Very Good). I expertly blend **Full-Stack Development** with **Cybersecurity principles** to build **"Secure-by-Design"** applications[cite: 2]. 
+I am a security-focused Computer Science student with a strong academic standing (GPA: Very Good). I expertly blend **Full-Stack Development** with **Cybersecurity principles** to build **"Secure-by-Design"** applications. 
 
-My expertise spans across Red Teaming, Security Operations Center (SOC) fundamentals, and complex Enterprise Network Architectures[cite: 2]. I thrive on mitigating OWASP Top 10 vulnerabilities and designing resilient network infrastructures[cite: 2].
+My expertise spans across Red Teaming, Security Operations Center (SOC) fundamentals, and complex Enterprise Network Architectures[cite: 2]. I thrive on mitigating OWASP Top 10 vulnerabilities and designing resilient network infrastructures.
 
-- 🛡️ Active Member in **MSP Cybersecurity** & **IEEE Cybersecurity**[cite: 2].
-- 💡 Passionate about continuous learning, threat analysis, and hands-on labs[cite: 2].
+- 🛡️ Active Member in **MSP Cybersecurity** & **IEEE Cybersecurity**.
+- 💡 Passionate about continuous learning, threat analysis, and hands-on labs.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔒 AI-Driven Smart Recruitment & Interview Management System
-*   **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript[cite: 2].
-*   **Description:** Developed a comprehensive Full-Stack recruitment platform with an AI-driven core for managing interviews[cite: 2].
-*   **Security Hardening:** Hardened the application against **OWASP Top 10** vulnerabilities (SQL Injection, XSS, and CSRF)[cite: 2]. Implemented secure user authentication, session management, and encrypted data storage[cite: 2].
+*   **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
+*   **Description:** Developed a comprehensive Full-Stack recruitment platform with an AI-driven core for managing interviews.
+*   **Security Hardening:** Hardened the application against **OWASP Top 10** vulnerabilities (SQL Injection, XSS, and CSRF). Implemented secure user authentication, session management, and encrypted data storage[cite: 2].
 
 ### 🌐 Advanced Enterprise Network Architecture 
-*   **Tools:** Cisco Packet Tracer / GNS3[cite: 2].
-*   **Description:** Designed and implemented a scalable multi-department enterprise network utilizing **VLANs** for traffic segmentation[cite: 2].
-*   **Features:** Configured Inter-VLAN Routing, Static NAT/PAT, and DHCP services[cite: 2]. Established a secure **Site-to-Site VPN** for encrypted remote communication using **VLSM** subnetting[cite: 2].
+*   **Tools:** Cisco Packet Tracer / GNS3.
+*   **Description:** Designed and implemented a scalable multi-department enterprise network utilizing **VLANs** for traffic segmentation.
+*   **Features:** Configured Inter-VLAN Routing, Static NAT/PAT, and DHCP services. Established a secure **Site-to-Site VPN** for encrypted remote communication using **VLSM** subnetting[cite: 2].
 
 ### 📚 Library REST API
-*   **Tech Stack:** Node.js, Express, SQLite, Postman[cite: 2].
-*   **Description:** Built a robust RESTful API with full CRUD operations, input validation, and secure HTTP error handling[cite: 2].
+*   **Tech Stack:** Node.js, Express, SQLite, Postman.
+*   **Description:** Built a robust RESTful API with full CRUD operations, input validation, and secure HTTP error handling.
 
 ### 🌍 Amun Travel & Mobility AI Chair Project
-*   **Frontend & Hardware Innovation:** Built responsive UI tourism portals and worked on AI-driven mobility engineering solutions[cite: 2].
+*   **Frontend & Hardware Innovation:** Built responsive UI tourism portals and worked on AI-driven mobility engineering solutions.
 
 ---
 
 ## 📜 Certifications & Internships
-*   **Red Nexus:** Red Teaming & Penetration Testing (120+ Hours intensive path covering eJPT, OSCP, EWAPT, and OSINT)[cite: 2].
-*   **NTI (National Telecommunication Institute):** Cybersecurity Training (Network security & threat detection labs)[cite: 2].
-*   **Cisco CyberOps Associate:** Network security, threat analysis, and incident response[cite: 2].
-*   **Cisco Network Technician:** Strong knowledge of network fundamentals and Cisco IOS configurations[cite: 2].
-*   **She Code Africa:** Selected Mentorship Program participant for technical and professional growth[cite: 2].
+*   **Red Nexus:** Red Teaming & Penetration Testing (120+ Hours intensive path covering eJPT, OSCP, EWAPT, and OSINT).
+*   **NTI (National Telecommunication Institute):** Cybersecurity Training (Network security & threat detection labs).
+*   **Cisco CyberOps Associate:** Network security, threat analysis, and incident response.
+*   **Cisco Network Technician:** Strong knowledge of network fundamentals and Cisco IOS configurations.
+*   **She Code Africa:** Selected Mentorship Program participant for technical and professional growth.
 
 ---
 
